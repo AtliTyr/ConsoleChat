@@ -55,5 +55,6 @@ void MainMenu();
 
 # Описание работы
 **Описание работы**
+
 ![Описание работы](https://github.com/B1gFo0T/ConsoleChat/assets/48732012/55be90af-4dec-40a7-b90a-b024efe91757)
 
